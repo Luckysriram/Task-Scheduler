@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task-Schedler/static/css/main.a0aa64f0.css",
+    "main.js": "/Task-Schedler/static/js/main.796680a5.js",
+    "static/js/453.f8f4e3b0.chunk.js": "/Task-Schedler/static/js/453.f8f4e3b0.chunk.js",
+    "index.html": "/Task-Schedler/index.html",
+    "main.a0aa64f0.css.map": "/Task-Schedler/static/css/main.a0aa64f0.css.map",
+    "main.796680a5.js.map": "/Task-Schedler/static/js/main.796680a5.js.map",
+    "453.f8f4e3b0.chunk.js.map": "/Task-Schedler/static/js/453.f8f4e3b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0aa64f0.css",
+    "static/js/main.796680a5.js"
+  ]
+}
